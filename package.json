@@ -1,0 +1,9 @@
+{
+    "name": "sourcemint-sdk-github",
+    "version": "0.1.0",
+    "pm": "npm",
+    "dependencies": {
+        "sourcemint-util-js": "0.1.x",
+        "github": "0.1.x"
+    }
+}
