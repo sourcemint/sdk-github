@@ -15,5 +15,6 @@ Github SDK
 Links
 =====
 
-  * http://ajaxorg.github.com/node-github/
-  * http://developer.github.com/
+  * https://github.com/ajaxorg/node-github
+  * http://ajaxorg.github.com/node-github
+  * http://developer.github.com
